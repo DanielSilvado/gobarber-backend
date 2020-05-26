@@ -7,7 +7,6 @@ const appointmentsRouter = Router()
 
 const appointmentsRepository = new AppointmentsRepository()
 
-
 appointmentsRouter.post('/', (request, response) => {
   const { provider, date } = request.body
 
