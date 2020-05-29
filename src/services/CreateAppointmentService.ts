@@ -8,8 +8,6 @@ interface Request {
   date: Date
 }
 
-// Dependency Inversion (SOLID)
-
 class CreateAppointmentService {
   private appointmentsRepository: AppointmentsRepository
 
