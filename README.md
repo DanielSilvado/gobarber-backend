@@ -1,3 +1,3 @@
 <h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 em desenvolvimento... 🚧
+	🚧 Semana OmniStack 10 🚀 em desenvolvimento... 🚧
 </h4>
